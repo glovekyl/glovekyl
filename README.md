@@ -5,9 +5,9 @@ My name is Kyle Glover and I am a **Software Developer** and part-time
 services, data pipelines, and machine learning models. I tinker with technology
 to know how things work, but it can be harder to put it back together.
 
-![Kyle's GitHub stats](https://github-readme-stats.kyle.engineering/api?username=glovekyl&show_icons=true)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovekyl&show_icons=true)
 
-![Top Langs](https://github-readme-stats.kyle.engineering/api/top-langs/?username=glovekyl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
 
 ## More
 [kyle.engineering](https://kyle.engineering)
