@@ -1,6 +1,6 @@
 <div align="center">
-<!--   <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Kyle</h1> -->
-<!--   <h3 style="color:red;" align="center">I am a software developer and tinkerer of technology.</h3> -->
+    <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Kyle</h1>
+    <h3 style="color:red;" align="center">I am a software developer and tinkerer of technology.</h3>
 </div>
 
 <!-- ### Hi there 👋 -->
