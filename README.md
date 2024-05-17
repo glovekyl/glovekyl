@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
     <h1 align="center">👋 Hey, I'm Kyle Glover</h1>
-</div>
+</div> -->
 
 <!-- ### Hi there 👋 -->
 
@@ -17,9 +17,11 @@ class Attributes(glovekyl):
 
     @staticmethod
     def about() -> tuple:
+        name = "Kyle Glover"
+        job = "Software developer"
         languages = ["golang", "lua", "python", "rust", "typescript"]
         pronouns = "he/him"
-        return pronouns, languages
+        return name, job, languages, pronouns
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
