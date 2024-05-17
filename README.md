@@ -9,19 +9,19 @@
 ```python
 class Attributes(glovekyl):
     @staticmethod
-    def contact() -> tuple:
-        homepage  = "https://kyle.engineering"
-        twitter   = "https://twitter.com/glovekyl"
-        email     = "contact@kyle.engineering"
-        return homepage, twitter, email
-
-    @staticmethod
     def about() -> tuple:
         name = "Kyle Glover"
         job = "Software developer"
         languages = ["golang", "lua", "python", "rust", "typescript"]
         pronouns = "he/him"
         return name, job, languages, pronouns
+
+    @staticmethod
+    def contact() -> tuple:
+        homepage  = "https://kyle.engineering"
+        twitter   = "https://twitter.com/glovekyl"
+        email     = "contact@kyle.engineering"
+        return homepage, twitter, email    
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
