@@ -11,8 +11,8 @@ class Attributes(glovekyl):
     @staticmethod
     def contact() -> tuple:
         homepage  = "https://kyle.engineering"
-        twitter   = "https://x.com/glovekyl"
-        email     = "contact [at] kyle.engineering"
+        twitter   = "https://twitter.com/glovekyl"
+        email     = "contact@kyle.engineering"
         return homepage, twitter, email
 
     @staticmethod
