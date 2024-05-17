@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+<!--   <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Kyle</h1> -->
+<!--   <h3 style="color:red;" align="center">I am a software developer and tinkerer of technology.</h3> -->
+</div>
 
-My name is Kyle Glover and I am a **Software Developer** and part-time
-**Data Enthusiast** from Melbourne AUS and have experience in building backend
-services, data pipelines, and machine learning models. I tinker with technology
-to know how things work, but it can be harder to put it back together.
+<!-- ### Hi there 👋 -->
 
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovekyl&show_icons=true)
+<!-- ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovekyl&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
 
-## More
-[kyle.engineering](https://kyle.engineering)
+```python
+class Attributes(glovekyl):
+    @staticmethod
+    def contact() -> tuple:
+        homepage  = "https://kyle.engineering"
+        twitter   = "https://x.com/glovekyl"
+        email     = "contact [at] kyle.engineering"
+        return homepage, twitter, email
+
+    @staticmethod
+    def about() -> tuple:
+        languages = ["golang", "lua", "python", "rust", "typescript"]
+        pronouns = "he/him"
+        return pronouns, languages
+```
 
 <!--
 **glovekyl/glovekyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
