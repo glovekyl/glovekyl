@@ -1,12 +1,10 @@
 <div align="center">
-    <h1 align="center">👋 Hey, I am Kyle Glover</h1>
+    <h1 align="center">👋 Hey, I'm Kyle Glover</h1>
 </div>
 
 <!-- ### Hi there 👋 -->
 
 <!-- ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovekyl&show_icons=true) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
 
 ```python
 class Attributes(glovekyl):
@@ -23,6 +21,8 @@ class Attributes(glovekyl):
         pronouns = "he/him"
         return pronouns, languages
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
 
 <!--
 **glovekyl/glovekyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
