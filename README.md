@@ -1,5 +1,5 @@
 <!-- <div align="center">
-    <h1 align="center">👋 Hey, I'm Kyle Glover</h1>
+    <h1 align="center">👋 Hey, I'm Kyle</h1>
 </div> -->
 
 <!-- ### Hi there 👋 -->
@@ -10,7 +10,7 @@
 class Attributes(glovekyl):
     @staticmethod
     def about() -> tuple:
-        name = "Kyle Glover"
+        name = "Kyle"
         job = "Software developer"
         languages = ["golang", "lua", "python", "rust", "typescript"]
         pronouns = "he/him"
@@ -24,7 +24,7 @@ class Attributes(glovekyl):
         return homepage, twitter, email    
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knackforit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
 
 <!--
 **glovekyl/glovekyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
