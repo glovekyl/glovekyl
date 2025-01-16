@@ -19,9 +19,8 @@ class Attributes(glovekyl):
     @staticmethod
     def contact() -> tuple:
         homepage  = "https://kyle.rocks"
-        twitter   = "https://twitter.com/glovekyl"
         email     = "contact@kyle.rocks"
-        return homepage, twitter, email    
+        return homepage, email    
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovekyl&layout=compact)
